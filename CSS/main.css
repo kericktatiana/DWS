@@ -1,0 +1,29 @@
+
+			body {
+				background-image:url('background.jpg')
+				}
+			p {
+				color:#820b98;
+				font:15px Tahoma;
+				}
+			h1, h2, h3{
+				color:#944242;
+				font:Tahoma
+				}
+			ol li{
+				color:#3a0b98;
+				font:15px Tahoma
+				}
+			a:link{
+				color: blue;
+				}
+			a:visited{
+				color: black;
+				}
+			a:hover{
+				color: pink;
+				}
+			a:active{
+				color:red;
+				}
+			
