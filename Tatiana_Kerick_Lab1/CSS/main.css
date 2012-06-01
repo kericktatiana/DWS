@@ -1,0 +1,40 @@
+
+			body {
+				background-image:url('background_css.jpg');
+				background-color: black;
+				background-repeat: no-repeat;
+				
+				}
+			p {
+				color:#c35dbb;
+				font:15px Tahoma;
+				}
+			h1{
+				color:#c30eb4;
+				font:35px Ariel;
+				}
+			h2{
+				color:#c30eb4;
+				font:30px Ariel;
+				}	
+			h3{
+				color:#c30eb4;
+				font:25px Ariel;
+				}			
+			ol li{
+				color:#aaaeaf;
+				font:15px Ariel
+				}
+			a:link{
+				color:#8c3e86;
+				}
+			a:visited{
+				color: pink;
+				}
+			a:hover{
+				color:#aaaeaf;
+				}
+			a:active{
+				color:red;
+				}
+			
