@@ -2,12 +2,37 @@ body{
 	color:#e8e8ec;
 	font-family:"Sansation Light", Arial, "Century Gothic";
 	background:#11112f url(../images/bg_top.jpg) repeat-x;
-}
+	}
 
 h1{
 	color:#e8e8ec;
+	font-size:100px;
 	font-family:"Sansation Light", Arial, "Century Gothic";
-	font size:100px;
-	line-height:100px;
+	line-height:150px;
 	margin:20px;
 	text-decoration:blink;
+	letter-spacing:20px;
+	font-weight:bold;
+	}
+	
+H2{
+	color:#70bae4;
+	font-size:40px;
+	font-family:"Sansation Light", Arial, "Century Gothic";
+	text-shadow:3px 3px 5px #375d73;
+	font-weight:bold;
+	}
+
+
+a:link{
+	color:#e8e8ec;
+	}
+a:visited{
+	color: pink;
+	}
+a:hover{
+	color:#aaaeaf;
+	}
+a:active{
+	color:red;
+	}
