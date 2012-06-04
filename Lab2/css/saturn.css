@@ -1,0 +1,13 @@
+body{
+	color:#e8e8ec;
+	font-family:"Sansation Light", Arial, "Century Gothic";
+	background:#11112f url(../images/bg_top.jpg) repeat-x;
+}
+
+h1{
+	color:#e8e8ec;
+	font-family:"Sansation Light", Arial, "Century Gothic";
+	font size:100px;
+	line-height:100px;
+	margin:20px;
+	text-decoration:blink;
